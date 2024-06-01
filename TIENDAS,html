@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <tittle></tittle>
+    <li><a href="file:///C:/Users/javia/Documents/Proyecto%20final%20umg/tiendas.html">Tiendas</a></li>
+    <link rel="stylesheet" href="tiendastyle.css">
+    
+
+    
+</head>
+
+    <body>
+        <div id="columnas">
+            <img class ="Tienda" src="images/fondo.jpg" alt="">
+            
+            <h1>Tiendas Físicas</h1>
+            
+             <h3>Interplaza Xela</h3>
+             <p>Km. 205 Carretera a San Marcos</p>
+            <p>Centro Comercial Interplaza Xela Segundo Nivel, Locales 205 al 208.</p>
+            <p>La Esperanza, Quetzaltenango</p>
+            <p>Tel: 4589-7845, 5412-7896</p>
+            <p>interplazaxel@BOOKHIVE.es</p>
+          
+            <h3>Pradera Concepción</h3>
+            <p>Km. 15.5 Carretera a El Sakvador</p>
+             <p>Sta. Catarina Pinula</p>
+             <p>La Esperanza, Quetzaltenango</p>
+             <p>Tel: 4588-4845, 3412-6896</p>
+             <p>concepcion@BOOKHIVE.es</p>
+            
+             <h3>Naranjo Mall</h3>
+             <p>23 Calle 10-00 Zona 4</p>            
+             <p>Tel: 8956-7845, 2385-9874</p>
+            <p>naranjo@BOOKHIVE.es</p>
+             
+             <h3>Plaza Magdalena, Cobán</h3>
+            <p>1 Calle 15-20 zona 2 Centro comercial Plaza Magdalena</p>
+             <p> Locales 205al 25.</p>
+             <p>La Esperanza, Quetzaltenango</p>
+            <p>Tel: 4789-5623</p>
+            <p>coban@BOOKHIVE.es</p>
+            
+             <h3>Miraflores</h3>
+            <p>Centro comercial Miraflores planta baja local S1-05</p>
+             <p> Ciudad de Guatemala</p>
+             <p>Tel: 4213-8956, 4789-5621</p>
+            <p>WhatsApp: 7894-1245</p>
+            <p>miraflores@BOOKHIVE.es</p>
+          
+             <h3>Galerías La Pradera</h3>
+            <p>Centro Comercial Galerías La Pradera.</p>
+             <p> Locales 205 al 25.</p>
+             <p>Ciudad de Guatemala</p>
+            <p>Tel: 7894-2314</p>
+            <p>lapraderagalerias@BOOKHIVE.es</p>
+
+        </div>
+
+
+    </body>
+
+
+</html>
